@@ -1,6 +1,31 @@
-## Hi there 👋
+<h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  I'm Hrishitaa
+</h1>
+
+### :woman_technologist: About Me :
+  I am an autonomous car and AI enthusiast<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+
+- :robot: I’m pursuing MS in Mechatronics and Robotics at NYU <img src="https://media.giphy.com/media/BPMnSoBV5dZ5gOOGHh/giphy.gif" width="30">.
+
+- :seedling: Currently exploring control systems and sensor fusion.
+
+- :zap: I explore new LLM tools and read articles about advancements in robotics in my free time.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-hrishitaa-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hrishitaa-kurchania/)
 
 <div id="header" align="center">
-  <img src="https://giphy.com/embed/eg4q8ka6zQuQ2qgKwe" width="100"/>
+  <img src= "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW9hdjk2dDc2MXhic3lnZTl4Y2ppM3VqczZoeGtzYmh0ZmhxdHVmdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eg4q8ka6zQuQ2qgKwe/giphy.gif" width="450"/>
 </div>
+<div id="badges" align="center">
+  <a href="www.linkedin.com/in/hrishitaa-kurchania">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+<div id="badges" align="center">
+<img src="https://komarev.com/ghpvc/?username=HRISHITAA&style=flat-square&color=blue" alt=""/>
+</div>
+---
+
 
