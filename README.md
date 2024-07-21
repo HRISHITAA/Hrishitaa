@@ -33,7 +33,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-
 <div id="header" align="center">
   <img src= "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW9hdjk2dDc2MXhic3lnZTl4Y2ppM3VqczZoeGtzYmh0ZmhxdHVmdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eg4q8ka6zQuQ2qgKwe/giphy.gif" width="450"/>
 </div>
