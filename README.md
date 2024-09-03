@@ -1,5 +1,5 @@
 <h1>
-  hey there
+  Hey there!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   I'm Hrishitaa
 </h1>
@@ -7,6 +7,7 @@
 ### :woman_technologist: About Me :
   I am an autonomous car and AI enthusiast<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
+- :female_student: MS Mechatronics and Robotics student at NYU Tandon
 - :robot: I’m pursuing MS in Mechatronics and Robotics at NYU <img src="https://media.giphy.com/media/BPMnSoBV5dZ5gOOGHh/giphy.gif" width="30">.
 
 - :seedling: Currently exploring control systems and sensor fusion.
