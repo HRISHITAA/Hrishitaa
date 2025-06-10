@@ -5,11 +5,11 @@
 </h1>
 
 ### :woman_technologist: About Me :
-  I am an autonomous car and AI enthusiast.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+  I make art meet Automation.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- :robot: I’m pursuing MS in Mechatronics and Robotics at NYU. <img src="https://media.giphy.com/media/BPMnSoBV5dZ5gOOGHh/giphy.gif" width="30">
+- :robot: I’m pursuing Master's in Mechatronics and Robotics at NYU. <img src="https://media.giphy.com/media/BPMnSoBV5dZ5gOOGHh/giphy.gif" width="30">
 
-- :seedling: Currently exploring control systems and sensor fusion.
+- :seedling: Currently building tactile sensor to improve object robot interaction.
 
 - :zap: I explore new LLM tools and read articles about advancements in robotics in my free time.
 
