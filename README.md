@@ -5,7 +5,7 @@
 </h1>
 
 ### :woman_technologist: About Me :
-  I make art meet Automation.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+  I make creativity meet Automation.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 - :robot: I’m pursuing Master's in Mechatronics and Robotics at NYU. <img src="https://media.giphy.com/media/BPMnSoBV5dZ5gOOGHh/giphy.gif" width="30">
 
